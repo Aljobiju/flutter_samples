@@ -4,3 +4,4 @@ Color profileContainerColor = Color(0xffFC7A6C);
 Color profileContainerColor2 = Color(0xffFA6E85);
 Color profileContainerColor3 = Color(0xffFA6E85);
 Color profileContainerColor4 = Color(0xffFA6E85);
+Color profileContainerColor5 = Color(0xffFA6E85);
